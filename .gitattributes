@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.blend binary   # Blender files
+*.zip binary
+*.tar.gz binary
+
+# Platform-specific scripts (optional)
+*.sh  text eol=lf
+*.bat text eol=crlf
