@@ -1,4 +1,4 @@
-# Cursor Ops
+# Cursor Ops · MØDLR Tools
 
 Cursor Ops is a precision 3D Cursor workflow system for Blender — fast, modal, deterministic, and production-ready.  
 Part of the MØDLR Tools suite.
