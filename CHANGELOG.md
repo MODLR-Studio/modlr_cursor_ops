@@ -7,7 +7,7 @@ This document tracks public, user-visible changes by version.
 ## v1.0.0 — Stable Release
 
 Type: Stable Release  
-Release Date: Pending (will update on storefront launch)
+Release Date: 2026-02-23
 
 ### Added
 - Quick Menu for direct access to:
