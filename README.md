@@ -1,6 +1,6 @@
 # Cursor Ops · MØDLR Tools
 
-Cursor Ops is a precision 3D Cursor workflow system for Blender — fast, modal, deterministic, and built for controlled placement.
+Cursor Ops is a precision 3D Cursor workflow system for Blender — fast, modal, deterministic, and built for controlled placement.<br>
 A MØDLR Tools product.
 
 ---
@@ -33,7 +33,7 @@ Current release: v1.0.0
 
 ## Compatibility
 
-Minimum supported version: Blender 3.3 LTS.  
+Minimum supported version: Blender 3.3 LTS.<br>
 Future versions are expected to work but are not guaranteed until tested.
 
 Specifically tested on:
@@ -56,12 +56,12 @@ When submitting a bug report, please include:
 - Clear reproduction steps  
 - Screenshots or screen recordings if possible  
 
-Submit issues here:  
+Submit issues here:<br>
 https://github.com/MODLR-Studio/modlr_cursor_ops/issues
 
 ---
 
 ## Support
 
-For direct support inquiries:  
+For direct support inquiries:<br>
 support@modlr.tools
