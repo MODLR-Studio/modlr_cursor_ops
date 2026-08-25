@@ -4,6 +4,38 @@ This document tracks public, user-visible changes by version.
 
 ---
 
+## v1.1.0 — Placement and Gizmo Update
+
+Type: Update  
+Release Date: 2026-08-26
+
+### Added
+- Drop to Surface
+- Recall Placement
+- Reset to World
+- Pivot to Cursor
+- Snapshot system
+
+### Improved
+- Cursor Move Gizmo
+- Cursor Rotate Gizmo
+- Cursor Move now supports multi-object workflows
+- WPlane grid alignment
+- UI layout grouping
+- Terminology (“True Geo” → “Base Geo”)
+- Local Z placement accuracy on modified meshes
+- Force World now consistently aligns the cursor to world orientation (no longer influenced by selection)
+
+### Compatibility
+Tested on:
+- Blender 3.3.21 LTS
+- Blender 3.6.23 LTS
+- Blender 4.2.21 LTS
+- Blender 4.5.10 LTS
+- Blender 5.1.2
+
+---
+
 ## v1.0.0 — Stable Release
 
 Type: Stable Release  
