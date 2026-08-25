@@ -3,6 +3,8 @@
 Cursor Ops is a precision 3D Cursor workflow system for Blender — fast, modal, deterministic, and built for controlled placement.<br>
 A MØDLR Tools product.
 
+→ [Get Cursor Ops on Gumroad](https://modlrtools.gumroad.com/l/wxxvy)
+
 ---
 
 ## Purpose of This Repository
