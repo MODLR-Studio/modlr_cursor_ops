@@ -28,7 +28,7 @@ It is not the sales or distribution platform.
 
 ## Version
 
-Current release: v1.0.0  
+Current release: v1.1.0  
 (See Releases tab for changelog.)
 
 ## Compatibility
@@ -38,11 +38,11 @@ Future versions are expected to work but are not guaranteed until tested.
 
 Specifically tested on:
 
-- 3.3.19 LTS  
-- 3.6.21 LTS  
-- 4.2.18 LTS  
-- 4.5.7 LTS  
-- 5.0.1  
+- 3.3.21 LTS  
+- 3.6.23 LTS  
+- 4.2.21 LTS  
+- 4.5.10 LTS  
+- 5.1.2  
 
 ---
 
